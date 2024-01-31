@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Parth</h1>
-<h3 align="left">A curious full stack developer from India</h3>
+<h3 align="left">A tech passionate full stack developer from India</h3>
 
 - 🔭 I’m currently working on webapp called **ChessMate**
 
