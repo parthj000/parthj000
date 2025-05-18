@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Parth</h1>
 <h3 align="left">A tech passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working  **MapNest**
+- 🔭 I’m currently working on app called **MapNest**
 
 - ⚡ Fun fact **I love singing and theatre**
 
