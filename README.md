@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Parth</h1>
 <h3 align="left">A tech passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on webapp called **ChessMate**
+- 🔭 I’m currently working  **MapNest**
 
-- ⚡ Fun fact **I love singing and animating**
+- ⚡ Fun fact **I love singing and theatre**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
